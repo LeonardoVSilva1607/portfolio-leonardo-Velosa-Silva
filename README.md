@@ -1,4 +1,3 @@
-NAO ATUALIZADO
 # Leonardo Velosa Da Silva
 > Estudante de Ciência da Computação
  
