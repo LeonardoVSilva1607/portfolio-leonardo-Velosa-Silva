@@ -50,7 +50,9 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | :--- | :--- | :---: |
 | **Batalha de Modelos** |Prompt Estruturado em XML para gerar uma página HTML, este prompt será testado em diversas ferramentas | [Ver Projeto](./projeto-Batalha-de-Modelos/) |
 | **Engenharia Reversa** | reconstruir um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA | [Ver Projeto](./projeto-ia-churn/) |
-| **Evolução para Produto Mínimo Viável** |  Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva |  [Ver Projeto](./projeto-ia-churn/) |
+| **Evolução para Produto Mínimo Viável** |  Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva |  [Ver Projeto](./projeto-Evolução-para-Produto-Mínimo-Viável/) |
+| **Construção de Portfólio Profissional no GitHub** | esse proprio repositorio | [Ver Projeto](./portfolio-leonardo-Velosa-Silva
+/) |
 
 #### Interface
 | Projeto | Descrição | Link |
