@@ -1,0 +1,22 @@
+{
+  "entities": {
+    "Design": {
+      "title": "QR Design",
+      "description": "A saved QR code design configuration",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "description": "The UID of the user who owns this design" },
+        "name": { "type": "string", "description": "The name of the design" },
+        "config": { "type": "object", "description": "The full QRState configuration" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "When the design was created" }
+      },
+      "required": ["userId", "name", "config", "createdAt"]
+    }
+  },
+  "firestore": {
+    "designs": {
+      "schema": "Design",
+      "description": "Collection of saved QR designs"
+    }
+  }
+}

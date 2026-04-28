@@ -1,0 +1,5 @@
+{
+  "name": "QR marker",
+  "description": "Advanced QR Code generator with real-time styling, cloud saving, and deep customization.",
+  "requestFramePermissions": []
+}
