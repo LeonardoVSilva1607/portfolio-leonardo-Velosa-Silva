@@ -49,7 +49,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Batalha de Modelos** |Prompt Estruturado em XML para gerar uma página HTML, este prompt será testado em diversas ferramentas | [Ver Projeto](./projeto-Batalha-de-Modelos/) |
-| **Engenharia Reversa** | reconstruir um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA | [Ver Projeto](./projeto-ia-churn/) |
+| **Engenharia Reversa** | reconstruir um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA | [Ver Projeto](./projeto-Engenharia-Reversa/) |
 | **Evolução para Produto Mínimo Viável** |  Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva |  [Ver Projeto](./projeto-Evolução-para-Produto-Mínimo-Viável/) |
 | **Construção de Portfólio Profissional no GitHub** | esse proprio repositorio | [Ver Projeto](./portfolio-leonardo-Velosa-Silva
 /) |
@@ -57,7 +57,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 #### Interface
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Autitoria de interfaces** | Avaliação de dois app com o foco em suas interfaces | [Ver Projeto](./projeto-ia-churn/) |
+| **Autitoria de interfaces** | Avaliação de dois app com o foco em suas interfaces | [Ver Projeto](./projeto-Autitoria-de-interfaces/) |
 | **Desenvolvimento de um wireframe** | criação de um wireframed de media fidelidade |  [Ver Projeto](./projeto-Desenvolvimento-de-um-wireframe/) |
 | **Criarção de um prototico** | utilizando o wireframe do projeto anterior desenvolver um modelo wireframe de alta fidelida e um prototico testado em usuarios reais | EM ANDAMENTO |
 
