@@ -56,7 +56,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Autitoria de interfaces** | Avaliação de dois app com o foco em suas interfaces | [Ver Projeto](./projeto-ia-churn/) |
-| **Desenvolvimento de um wireframe** | criação de um wireframed de media fidelidade |  [Ver Projeto](./projeto-ia-churn/) |
+| **Desenvolvimento de um wireframe** | criação de um wireframed de media fidelidade |  [Ver Projeto](./projeto-Desenvolvimento-de-um-wireframe/) |
 | **Criarção de um prototico** | utilizando o wireframe do projeto anterior desenvolver um modelo wireframe de alta fidelida e um prototico testado em usuarios reais | EM ANDAMENTO |
 
 #### Prototipagem de Sistemas Computacionais
