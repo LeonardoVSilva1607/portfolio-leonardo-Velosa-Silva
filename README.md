@@ -44,17 +44,10 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade d
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
-| **Minimundo para desenvolvimento de um banco de dados 1** | projeto prático de modelagem de banco de dados por meio da escolha de um cenário (minimundo), sua descrição detalhada para estabelecer uma base sólida para as futuras etapas de modelagem | [Ver Projeto](./projeto-banco-dados/) |
-| **Minimundo para desenvolvimento de um banco de dados 2** | base na descrição do minimundo anterior analisar os tipos de dados que o sistema irá gerenciar | [Ver Projeto](./projeto-banco-dados/) |
-| **Minimundo para desenvolvimento de um banco de dados 3** | base na descrição do minimundo identificar exemplos práticos do próprio projeto para ilustrar os Dado vs. Informação e Dados Estruturados vs. Não Estruturados | [Ver Projeto](./projeto-banco-dados/) |
-| **Documentação unica e final** | consolidar todas as informações em um único documento final. Este documento servirá como a base inalterável para todas as etapas subsequentes do projeto de modelagem de banco de dados | [Ver Projeto](./projeto-banco-dados/) |
-| **Desenvolvimento para um DER** | Desenvolver o Diagrama Entidade-Relacionamento (DER) e detalhar seus componentes com base na descrição do minimundo previamente estabelecida | [Ver Projeto](./projeto-banco-dados/) |
-| **Aplicação de Formas Normais** | Aplicar os conceitos teóricos das Formas Normais (1FN, 2FN e 3FN) em seu projeto de minimundo | [Ver Projeto](./projeto-banco-dados/) |
 
 ####  Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 | **Batalha de Modelos** |Prompt Estruturado em XML para gerar uma página HTML, este prompt será testado em diversas ferramentas | [Ver Projeto](./projeto-Batalha-de-Modelos/) |
 | **Engenharia Reversa** | reconstruir um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA | [Ver Projeto](./projeto-ia-churn/) |
 | **Evolução para Produto Mínimo Viável** |  Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva |  [Ver Projeto](./projeto-ia-churn/) |
