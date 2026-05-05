@@ -1,0 +1,1 @@
+bom não esta acabado créditos acabaram e porcaria NEM fez um login certo, simplesmente NAO USE MANUS é uma ferramenta  horrivel
